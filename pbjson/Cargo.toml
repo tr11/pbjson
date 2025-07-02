@@ -1,6 +1,6 @@
 [package]
 name = "pbjson"
-version = "0.7.0"
+version = "0.7.0+tr11"
 authors = ["Raphael Taylor-Davies <r.taylordavies@googlemail.com>"]
 edition = "2021"
 description = "Utilities for pbjson conversion"
@@ -16,4 +16,4 @@ base64 = "0.22"
 
 [dev-dependencies]
 bytes = "1.0"
-rand = "0.8"
+rand = "0.9"
